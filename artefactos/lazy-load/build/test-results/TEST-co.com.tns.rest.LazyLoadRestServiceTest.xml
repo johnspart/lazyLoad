@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.tns.rest.LazyLoadRestServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-07-31T16:46:56" hostname="TNS-PC" time="0.719">
+  <properties/>
+  <testcase name="lazyLoad" classname="co.com.tns.rest.LazyLoadRestServiceTest" time="0.719"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
